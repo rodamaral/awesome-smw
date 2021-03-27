@@ -100,4 +100,4 @@
 
 ## License
 
-This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content will be located in the `LICENSE` file.
+This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.
